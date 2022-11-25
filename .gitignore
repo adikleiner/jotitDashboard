@@ -1,0 +1,6 @@
+node_mosules/
+dist/
+.vscode
+.idea/
+.env
+yarn-error.log
